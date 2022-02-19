@@ -119,20 +119,20 @@ title: Spotify Integration
     <summary>How do I disconnect my Spotify account?</summary>
     <p>You can always revoke the bot's access to your Spotify account:</p>
     <ol>
-        <li>Send <code>ob spotify unregister</code> in an offline Twitch channel that I'm in.</li>
+        <li>Send <code>ob spotify unregister</code> in an offline Twitch channel that it's in.</li>
         <li>Go to Spotify's website → Account → Apps, and remove "OreoxylBot".</li>
     </ol>
 </details>
 
 <details>
     <summary>Who will be able to access my Spotify data?</summary>
-    <p>Only you will be able to use the bot's commands to share you currently playing track and more.</p>
+    <p>Only you will be able to use the bot's commands to share what you're currently listening to and more.</p>
     <p>The bot doesn't let anyone check your Spotify status. If that ever becomes an option it will require your explicit permission.</p>
 </details>
 
 <details>
     <summary>How can I change the permissions after I signed up?</summary>
-    <p>To give more permissions to the bot you can sign up again - select the ones you want here and connect your Spotify account.</p>
+    <p>To add permissions to the bot you can sign up again with the ones you want.</p>
     <p>To remove permissions, like any third party Spotify app, you have to first unlink your Spotify account by going to Spotify's website → Account → Apps, and removing "OreoxylBot". Then you can get back here and sign up again with the permissions you want.</p>
 </details>
 
