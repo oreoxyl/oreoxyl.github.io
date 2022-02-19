@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spotify Integration - Last Step
+title: Spotify Integration - Almost There
 ---
 
 <h1></h1>
@@ -60,6 +60,10 @@ window.addEventListener('load', function() {
 
         p = document.createElement('p');
         p.textContent = 'To complete the sign up whisper OreoxylBot on Twitch the following code in the next few minutes. Do not share this code with anyone else.';
+        res.appendChild(p);
+
+        p = document.createElement('p');
+        p.textContent = "It can't whisper back due to current Twitch limits so it will answer in your own channel's chat.";
         res.appendChild(p);
 
         p = document.createElement('p');
