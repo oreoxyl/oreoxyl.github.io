@@ -93,7 +93,7 @@ title: Spotify Integration
             </td>
             <td>
                 <p>You: <code>ob spotify</code></p>
-                <pre>{%- include bot-handle.html -%}Currently on your spotify ▶ Strange by Celeste [00:42/04:16] <a href="https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4" target="_blank">https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4</a></pre>
+                <pre>{%- include bot-handle.html -%}Currently on your spotify ▶ Strange by Celeste [00:42/04:16] → <a href="https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4" target="_blank">https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4</a></pre>
             </td>
         </tr>
         <tr onclick="toggleCheckbox(this, event)">
@@ -103,7 +103,7 @@ title: Spotify Integration
             </td>
             <td>
                 <p>You: <code>ob spotify yoink</code></p>
-                <pre>{%- include bot-handle.html -%}yoinked last shared track in this channel: Never Gonna Give You Up by Rick Astley -> <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT" target="_blank">https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT</a></pre>
+                <pre>{%- include bot-handle.html -%}yoinked last shared track in this channel: Never Gonna Give You Up by Rick Astley → <a href="https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT" target="_blank">https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT</a></pre>
             </td>
         </tr>
     </tbody>
@@ -126,7 +126,7 @@ title: Spotify Integration
 
 <details>
     <summary>Who will be able to access my Spotify data?</summary>
-    <p>Only you will be able to use the bot's commands to share you currently playing track and more</p>
+    <p>Only you will be able to use the bot's commands to share you currently playing track and more.</p>
     <p>The bot doesn't let anyone check your Spotify status. If that ever becomes an option it will require your explicit permission.</p>
 </details>
 
